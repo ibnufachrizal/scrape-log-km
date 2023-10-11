@@ -1,0 +1,16 @@
+{
+  "name": "scrape-log-km",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "dotenv": "^16.3.1",
+    "json-2-csv": "^3.20.0"
+  }
+}
