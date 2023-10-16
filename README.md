@@ -8,7 +8,7 @@ npm install axios dotenv json-2-csv@3.20.0
 
 ## Usage
 
-Add file .env
+Create file env
 ```shell
 TOKEN=eyJhbGcixxxxxxx
 ID=5812xxx
